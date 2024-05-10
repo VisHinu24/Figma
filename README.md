@@ -1,6 +1,7 @@
 # Ex09 Event Registration Web Application
-## Date:
-
+## Date:10/05/2024
+## Name : H Vishinu 
+## Reg.No : 212223220124
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
