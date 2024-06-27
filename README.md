@@ -84,6 +84,7 @@ Figma
 
 
 ## OUTPUT:
+### 3 pages
 ![image](https://github.com/VisHinu24/Figma/assets/144244396/e5ce0811-b89e-4eca-a6c4-b8a92fc6a60c)
 
 
